@@ -1,6 +1,15 @@
-# 项目简介
+<!--
+ * @Author: tushan
+ * @Date: 2022-04-15 20:12:55
+ * @LastEditors: tushan
+ * @LastEditTime: 2022-07-08 17:14:54
+ * @Description: 
+-->
+# 创次元图床
 
 **本程序为图床程序，用于存储图片实现图片外链功能而开发。**
+
+### 后台管理系统地址 https://github.com/tsxcw/mcecy-tc-admin
 
 项目所采用相关三方库
 
