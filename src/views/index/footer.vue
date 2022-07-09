@@ -60,7 +60,7 @@ export default {
   data() {
     return {
       app_name: memory.get("app_name"),
-      logo: import.meta.env.VITE_APP_LOGO,
+      logo: memory.get('app_logo'),
       list: [],
       bah: memory.get('bah')
     };
