@@ -13,7 +13,7 @@
           </span>
         </div>
       </div>
-      <div v-if="list.lengthm" class="friend-link">
+      <div v-if="list.length" class="friend-link">
         <span>友情链接</span>
         <ul>
           <transition v-for="(item,index) in list" :key="index">
